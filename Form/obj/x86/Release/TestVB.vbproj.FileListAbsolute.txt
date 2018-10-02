@@ -1,0 +1,11 @@
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\TestVB\TestVB\bin\x86\Release\TestVB.exe.config
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\TestVB\TestVB\bin\x86\Release\TestVB.exe
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\TestVB\TestVB\bin\x86\Release\TestVB.pdb
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\TestVB\TestVB\bin\x86\Release\TestVB.xml
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\TestVB\TestVB\obj\x86\Release\TestVB.Form1.resources
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\TestVB\TestVB\obj\x86\Release\TestVB.Resources.resources
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\TestVB\TestVB\obj\x86\Release\TestVB.vbproj.GenerateResource.cache
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\TestVB\TestVB\obj\x86\Release\TestVB.vbproj.CoreCompileInputs.cache
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\TestVB\TestVB\obj\x86\Release\TestVB.exe
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\TestVB\TestVB\obj\x86\Release\TestVB.xml
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\TestVB\TestVB\obj\x86\Release\TestVB.pdb

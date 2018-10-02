@@ -1,0 +1,11 @@
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\bin\x86\Release\TestVB.exe.config
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\bin\x86\Release\TestVB.exe
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\bin\x86\Release\TestVB.pdb
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\bin\x86\Release\TestVB.xml
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x86\Release\TestVB.Form.resources
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x86\Release\TestVB.Resources.resources
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x86\Release\Form.vbproj.GenerateResource.cache
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x86\Release\Form.vbproj.CoreCompileInputs.cache
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x86\Release\TestVB.exe
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x86\Release\TestVB.xml
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x86\Release\TestVB.pdb

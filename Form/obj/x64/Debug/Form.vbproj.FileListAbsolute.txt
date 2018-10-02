@@ -1,0 +1,24 @@
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\bin\x64\Debug\TestVB.exe.config
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\bin\x64\Debug\TestVB.exe
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\bin\x64\Debug\TestVB.pdb
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\bin\x64\Debug\TestVB.xml
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x64\Debug\TestVB.Form.resources
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x64\Debug\TestVB.Resources.resources
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x64\Debug\Form.vbproj.GenerateResource.cache
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x64\Debug\Form.vbproj.CoreCompileInputs.cache
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x64\Debug\TestVB.exe
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x64\Debug\TestVB.xml
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x64\Debug\TestVB.pdb
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x64\Debug\Form.vbprojAssemblyReference.cache
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\C++ToVb\Form\bin\x64\Debug\TestVB.exe.config
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\C++ToVb\Form\bin\x64\Debug\TestVB.exe
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\C++ToVb\Form\bin\x64\Debug\TestVB.pdb
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\C++ToVb\Form\bin\x64\Debug\TestVB.xml
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\C++ToVb\Form\obj\x64\Debug\Form.vbprojAssemblyReference.cache
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\C++ToVb\Form\obj\x64\Debug\TestVB.Form.resources
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\C++ToVb\Form\obj\x64\Debug\TestVB.Resources.resources
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\C++ToVb\Form\obj\x64\Debug\Form.vbproj.GenerateResource.cache
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\C++ToVb\Form\obj\x64\Debug\Form.vbproj.CoreCompileInputs.cache
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\C++ToVb\Form\obj\x64\Debug\TestVB.exe
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\C++ToVb\Form\obj\x64\Debug\TestVB.xml
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\C++ToVb\Form\obj\x64\Debug\TestVB.pdb

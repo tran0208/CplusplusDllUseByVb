@@ -1,0 +1,12 @@
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\bin\x64\Debug\TestVB.exe.config
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\bin\x64\Debug\TestVB.exe
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\bin\x64\Debug\TestVB.pdb
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\bin\x64\Debug\TestVB.xml
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x64\Debug\TestVB.vbprojAssemblyReference.cache
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x64\Debug\TestVB.Form1.resources
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x64\Debug\TestVB.Resources.resources
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x64\Debug\TestVB.vbproj.GenerateResource.cache
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x64\Debug\TestVB.vbproj.CoreCompileInputs.cache
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x64\Debug\TestVB.exe
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x64\Debug\TestVB.xml
+C:\Users\Minh Tran\Desktop\Tutorials\testdll\New folder\Form\obj\x64\Debug\TestVB.pdb
