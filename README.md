@@ -1,3 +1,3 @@
 # CplusplusDllUseByVb
 
-The project demonstrates a dll created using C++ an then used in a VB program.
+The project demonstrates a dll created using C++ and then used in a VB program.
